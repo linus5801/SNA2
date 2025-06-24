@@ -1,0 +1,30 @@
+id,Name,Geburtsjahr,Position,U15,U16,U17,U18,U19,U20,U21,A,Höchste_Mannschaft,type
+1001,Mario Götze,1992,OF,1,1,1,2,2,2,1,1,A,1
+1002,Kevin Schulze,1992,LM,1,1,1,1,1,2,2,2,U19,1
+1003,Reinhold Yabo,1992,ZM,1,1,1,1,1,1,2,2,U20,1
+1004,Alexander Merkel,1992,ZM,1,1,1,1,1,1,2,2,U20,1
+1005,Giacomo Serrone,1992,RA,1,1,1,2,2,2,2,2,U17,1
+1006,Tino Dehmelt,1992,TW,1,2,2,2,2,2,2,2,U15,1
+1007,Sebastian Vogl,1992,TW,1,1,1,1,2,2,2,2,U18,1
+1008,Steffen Meier,1992,AV,1,2,2,2,2,2,2,2,U15,1
+1009,Tommy Grupe,1992,IV,1,1,1,1,2,2,2,2,U18,1
+1010,Gerrit Nauber,1992,IV,1,1,1,1,2,2,2,2,U18,1
+1011,Julian Korb,1992,AV,1,1,1,1,1,2,1,2,U21,1
+1012,Matthias Zimmermann,1992,RV,1,1,1,1,1,1,2,2,U20,1
+1013,Willi Evseev,1992,DM,1,1,1,1,2,2,2,2,U18,1
+1014,Robert Labus ,1992,DM,1,1,1,1,1,2,2,2,U19,1
+1015,Christopher Buchtmann,1992,ZM,1,1,1,1,1,1,2,2,U20,1
+1016,Christian Silaj,1992,ZM,1,1,2,1,2,2,2,2,U18,1
+1017,Christopher Mandiangu ,1992,MS ,1,1,1,1,2,2,2,2,U18,1
+1018,Kevin Feiersinger ,1992,MS ,1,1,2,2,2,2,2,2,U16,1
+1019,Abu Bakarr Kargbo ,1992,MS ,1,1,1,1,1,1,2,2,U20,1
+1020,Tim Scheffler ,1992,MS ,1,1,1,1,2,2,2,2,U18,1
+1021,Pascal Breier ,1992,MS ,1,1,1,2,2,2,2,2,U17,1
+U15,U15,,,,,,,,,,,,2
+U16,U16,,,,,,,,,,,,2
+U17,U17,,,,,,,,,,,,2
+U18,U18,,,,,,,,,,,,2
+U19,U19,,,,,,,,,,,,2
+U20,U20,,,,,,,,,,,,2
+U21,U21,,,,,,,,,,,,2
+A,A,,,,,,,,,,,,2
